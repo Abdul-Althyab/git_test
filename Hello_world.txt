@@ -1,1 +1,2 @@
 The frist program on GitHub
+Probeer 'commit' zonder -m
